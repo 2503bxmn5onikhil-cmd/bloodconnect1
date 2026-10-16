@@ -1,0 +1,1 @@
+{"routes":[{"path":"/","title":"BloodConnect command center"},{"path":"/dashboard","title":"Dashboard"},{"path":"/requests","title":"Blood requests"},{"path":"/inventory","title":"Inventory"},{"path":"/notifications","title":"Notifications"},{"path":"/reports","title":"Reports"},{"path":"/architecture","title":"Architecture"}]}
